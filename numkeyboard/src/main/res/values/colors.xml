@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <!-- Royole PasswordBouncer -->
+    <color name="menu_text_color_normal">#80ffffff</color>
+    <color name="item_tips_focus_color">#80ffffff</color>
+    <color name="item_tips_normal_color">#80ffffff</color>
+    <color name="item_title_normal_color">#b3ffffff</color>
+    <color name="screen_shape_color">#ff32c3ff</color>
+    <color name="screen_shape_color_normal">#ff3f404c</color>
+    <color name="security_popup_item_color">#FF196280</color>
+    <color name="security_popup_item_normal_color">#4dffffff</color>
+    <color name="security_popup_item_focus_color">#80060012</color>
+    <color name="lib_dialog_text_focus">#e6ffffff</color>
+
+
+    <color name="pwd_edit_bg_normal">#80060012</color>
+    <color name="pwd_edit_bg_focus">#ff0a2733</color>
+    <color name="pwd_edit_stroke_focus">#ff196280</color>
+
+</resources>

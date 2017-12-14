@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="610px"
+        android:layout_height="70px"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="60px"
+        android:orientation="horizontal" >v
+
+        <Button
+            android:id="@+id/btn_text_1"
+            android:layout_width="114px"
+            android:layout_height="70px"
+            android:background="@drawable/pwd_input_bg_selector"
+            android:text="@string/password_button_1"
+            android:textColor="@color/pwd_input_text_selector"
+            android:textSize="36px" />
+
+        <Button
+            android:id="@+id/btn_text_2"
+            android:layout_width="114px"
+            android:layout_height="70px"
+            android:layout_marginLeft="10px"
+            android:background="@drawable/pwd_input_bg_selector"
+            android:text="@string/password_button_2"
+            android:textColor="@color/pwd_input_text_selector"
+            android:textSize="36px" />
+
+        <Button
+            android:id="@+id/btn_text_3"
+            android:layout_width="114px"
+            android:layout_height="70px"
+            android:layout_marginLeft="10px"
+            android:background="@drawable/pwd_input_bg_selector"
+            android:text="@string/password_button_3"
+            android:textColor="@color/pwd_input_text_selector"
+            android:textSize="36px" />
+
+        <Button
+            android:id="@+id/btn_text_4"
+            android:layout_width="114px"
+            android:layout_height="70px"
+            android:layout_marginLeft="10px"
+            android:background="@drawable/pwd_input_bg_selector"
+            android:text="@string/password_button_4"
+            android:textColor="@color/pwd_input_text_selector"
+            android:textSize="36px" />
+
+        <Button
+            android:id="@+id/btn_text_5"
+            android:layout_width="114px"
+            android:layout_height="70px"
+            android:layout_marginLeft="10px"
+            android:background="@drawable/pwd_input_bg_selector"
+            android:text="@string/password_button_5"
+            android:textColor="@color/pwd_input_text_selector"
+            android:textSize="36px" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="610px"
+        android:layout_height="70px"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="10px"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/btn_text_6"
+            android:layout_width="114px"
+            android:layout_height="70px"
+            android:background="@drawable/pwd_input_bg_selector"
+            android:text="@string/password_button_6"
+            android:textColor="@color/pwd_input_text_selector"
+            android:textSize="36px" />
+
+        <Button
+            android:id="@+id/btn_text_7"
+            android:layout_width="114px"
+            android:layout_height="70px"
+            android:layout_marginLeft="10px"
+            android:background="@drawable/pwd_input_bg_selector"
+            android:text="@string/password_button_7"
+            android:textColor="@color/pwd_input_text_selector"
+            android:textSize="36px" />
+
+        <Button
+            android:id="@+id/btn_text_8"
+            android:layout_width="114px"
+            android:layout_height="70px"
+            android:layout_marginLeft="10px"
+            android:background="@drawable/pwd_input_bg_selector"
+            android:text="@string/password_button_8"
+            android:textColor="@color/pwd_input_text_selector"
+            android:textSize="36px" />
+
+        <Button
+            android:id="@+id/btn_text_9"
+            android:layout_width="114px"
+            android:layout_height="70px"
+            android:layout_marginLeft="10px"
+            android:background="@drawable/pwd_input_bg_selector"
+            android:text="@string/password_button_9"
+            android:textColor="@color/pwd_input_text_selector"
+            android:textSize="36px" />
+
+        <Button
+            android:id="@+id/btn_text_0"
+            android:layout_width="114px"
+            android:layout_height="70px"
+            android:layout_marginLeft="10px"
+            android:background="@drawable/pwd_input_bg_selector"
+            android:text="@string/password_button_0"
+            android:textColor="@color/pwd_input_text_selector"
+            android:textSize="36px" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="610px"
+        android:layout_height="70px"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="10px"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/btn_text_delete"
+            android:layout_width="362px"
+            android:layout_height="70px"
+            android:background="@drawable/delete_layer_list" />
+
+        <Button
+            android:id="@+id/btn_text_enter"
+            android:layout_width="238px"
+            android:layout_height="70px"
+            android:layout_marginLeft="10px"
+            android:background="@drawable/enter_layer_list" />
+    </LinearLayout>
+</LinearLayout>
